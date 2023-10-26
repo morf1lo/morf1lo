@@ -1,16 +1,13 @@
-### Hi there 👋
+### 🍀 Hi
 
-<!--
-**morf1lo/morf1lo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Technologies that I use and study
+![Node JS](/assets/nodedotjs-color.svg)
+![Linux](/assets/linux-color.svg)
+![HTML5](/assets/html5-color.svg)
+![CSS3](/assets/css3-color.svg)
+![JavaScript](/assets/javascript-color.svg)
+![VS Code](/assets/visualstudiocode-color.svg)
 
-Here are some ideas to get you started:
+[![Morf1lo's GitHub stats](https://github-readme-stats.vercel.app/api?username=morf1lo&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morf1lo&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
