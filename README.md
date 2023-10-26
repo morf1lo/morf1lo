@@ -14,4 +14,4 @@
 
 [![Morf1lo's GitHub stats](https://github-readme-stats.vercel.app/api?username=morf1lo&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morf1lo&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morf1lo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
