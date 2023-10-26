@@ -1,4 +1,4 @@
-# 🍁 Hi
+## 🍁 Hi
 
 ### Technologies that I use and study
 
