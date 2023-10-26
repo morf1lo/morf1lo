@@ -1,5 +1,7 @@
 ## 🍀 Hi
 
+---
+
 ### Technologies that I use and study
 <div style="display: inline-block;">
     <img src="/assets/nodedotjs-color.svg" width="72" height="72">
@@ -10,7 +12,7 @@
     <img src="/assets/visualstudiocode-color.svg" width="72" height="72">
 </div>
 
----------------------
+---
 
 [![Morf1lo's GitHub stats](https://github-readme-stats.vercel.app/api?username=morf1lo&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
