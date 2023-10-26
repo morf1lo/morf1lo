@@ -1,7 +1,7 @@
 ### 🍀 Hi
 
 #### Technologies that I use and study
-<div style="display: inline-block; gap: 200px;">
+<div style="display: inline-flex; gap: 200px;">
     <img src="/assets/nodedotjs-color.svg" width="96" height="96">
     <img src="/assets/linux-color.svg" width="96" height="96">
     <img src="/assets/html5-color.svg" width="96" height="96">
