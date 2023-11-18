@@ -16,4 +16,4 @@
 
 [![Morf1lo's GitHub stats](https://github-readme-stats.vercel.app/api?username=morf1lo&theme=outrun&show_icons=true&hide_border=true&icon_color=f1f1f1)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morf1lo&layout=compact&theme=outrun&hide_border=true&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morf1lo&layout=compact&theme=outrun&hide_border=true&text_color=5959b8)](https://github.com/anuraghazra/github-readme-stats)
