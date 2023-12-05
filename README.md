@@ -1,14 +1,12 @@
-## 🍁 Hi
+## 🎄 Hi
 
 ### Technologies that I use and study
 
 <div style="display: inline-block;">
     <img src="/assets/nodedotjs-color.svg" width="72" height="72">
     <img src="/assets/mongodb-color.svg" width="72" height="72">
-        <img src="/assets/typescript-color.svg" width="72" height="72">
     <img src="/assets/linux-color.svg" width="72" height="72">
-    <img src="/assets/html5-color.svg" width="72" height="72">
-    <img src="/assets/css3-color.svg" width="72" height="72">
+    <img src="/assets/typescript-color.svg" width="72" height="72">
     <img src="/assets/javascript-color.svg" width="72" height="72">
     <img src="/assets/visualstudiocode-color.svg" width="72" height="72">
 </div>
