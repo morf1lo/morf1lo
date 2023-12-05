@@ -4,6 +4,7 @@
 
 <div style="display: inline-block;">
     <img src="/assets/nodedotjs-color.svg" width="72" height="72">
+    <img src="/assets/typescript-color.svg" width="72" height="72">
     <img src="/assets/mongodb-color.svg" width="72" height="72">
     <img src="/assets/linux-color.svg" width="72" height="72">
     <img src="/assets/html5-color.svg" width="72" height="72">
