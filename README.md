@@ -4,6 +4,7 @@
 
 <div style="display: inline-block;">
     <img src="/assets/go-color.svg" width="72" height="72" />
+    <img src="/assets/postgresql-color.svg" width="72" height="72">
     <img src="/assets/mysql-color.svg" width="72" height="72" />
     <img src="/assets/mongodb-color.svg" width="72" height="72" />
     <img src="/assets/linux-color.svg" width="72" height="72" />
