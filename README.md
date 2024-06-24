@@ -1,16 +1,6 @@
 ## ☕️ Hi
 
-### Technologies that I use and study
-
-<div style="display: inline-block;">
-    <img src="/assets/go-color.svg" width="72" height="72" />
-    <img src="/assets/redis-color.svg" width="72" height="72" />
-    <img src="/assets/postgresql-color.svg" width="72" height="72">
-    <img src="/assets/mysql-color.svg" width="72" height="72" />
-    <img src="/assets/mongodb-color.svg" width="72" height="72" />
-    <img src="/assets/linux-color.svg" width="72" height="72" />
-    <img src="/assets/visualstudiocode-color.svg" width="72" height="72" />
-</div>
+[![Technologies that I use and study](https://skillicons.dev/icons?i=go,grpc,redis,postgres,mongodb,linux,vscode,git,)](https://skillicons.dev)
 
 ---
 
