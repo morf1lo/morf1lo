@@ -2,13 +2,13 @@
 
 ### Technologies that I use and study
 <div>
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/go-light.svg" width="64">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/grpc-light.svg" width="64">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/postgressql-light.svg" width="64">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/redis-light.svg" width="64">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/mongodb-light.svg" width="64">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/linux-light.svg" width="64">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/git-light.svg" width="64">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/go-dark.svg" width="64">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/grpc-dark.svg" width="64">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/postgressql-dark.svg" width="64">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/redis-dark.svg" width="64">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/mongodb-dark.svg" width="64">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/linux-dark.svg" width="64">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" width="64">
 </div>
 
 ---
