@@ -1,14 +1,14 @@
 ## ☕️ Hi
 
 ### Technologies that I use and study
-<div style="display:flex;">
-    <p align="center"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/go-dark.svg" width="92"></p>
-    <p align="center"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/grpc-dark.svg" width="92"></p>
-    <p align="center"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/postgressql-dark.svg" width="92"></p>
-    <p align="center"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/redis-dark.svg" width="92"></p>
-    <p align="center"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/mongodb-dark.svg" width="92"></p>
-    <p align="center"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/linux-dark.svg" width="92"></p>
-    <p align="center"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" width="92"></p>
+<div>
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/go-dark.svg" width="92">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/grpc-dark.svg" width="92">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/postgressql-dark.svg" width="92">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/redis-dark.svg" width="92">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/mongodb-dark.svg" width="92">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/linux-dark.svg" width="92">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" width="92">
 </div>
 
 ---
