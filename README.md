@@ -1,6 +1,13 @@
 ## ☕️ Hi
 
-[![Technologies that I use and study](https://skillicons.dev/icons?i=go,grpc,redis,postgres,mongodb,linux,vscode,git,)](https://skillicons.dev)
+### Technologies that I use and study
+<a href="#"><p align="center"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/go-dark.svg"></p></a>
+<a href="#"><p align="center"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/grpc-dark.svg"></p></a>
+<a href="#"><p align="center"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/postgres-dark.svg"></p></a>
+<a href="#"><p align="center"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/redis-dark.svg"></p></a>
+<a href="#"><p align="center"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/mongodb-dark.svg"></p></a>
+<a href="#"><p align="center"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/linux-dark.svg"></p></a>
+<a href="#"><p align="center"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/git-dark.svg"></p></a>
 
 ---
 
