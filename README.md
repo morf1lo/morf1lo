@@ -3,7 +3,7 @@
 ### Technologies that I use and study
 <div>
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/go-dark.svg" width="64">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/grpc-dark.svg" width="64">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/grpc.svg" width="64">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/postgressql-dark.svg" width="64">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/redis-dark.svg" width="64">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/mongodb-dark.svg" width="64">
