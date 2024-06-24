@@ -11,6 +11,7 @@
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" width="64">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/yaml.svg" width="64">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/postman.svg" width="64">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/html.svg" width="64">
 </div>
 
 ---
