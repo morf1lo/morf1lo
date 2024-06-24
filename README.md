@@ -1,6 +1,7 @@
 ## ☕️ Hi
 
 ### Technologies that I use and study
+<div align="center"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/stackoverflow-dark.svg" width="92"></div>
 <div>
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/go-dark.svg" width="64">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/grpc.svg" width="64">
