@@ -1,7 +1,7 @@
 ## ☕️ Hi
 
 ### Technologies that I use and study
-<div>
+<div style="display:flex;gap:10px;">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/go-dark.svg" width="64">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/grpc-dark.svg" width="64">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/postgressql-dark.svg" width="64">
