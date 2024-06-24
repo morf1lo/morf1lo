@@ -8,7 +8,7 @@
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/redis-light.svg" width="64">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/mongodb-light.svg" width="64">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/linux-light.svg" width="64">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" width="64">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/git-light.svg" width="64">
 </div>
 
 ---
