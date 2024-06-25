@@ -1,6 +1,8 @@
 ## ☕️ Hi
 
-### Technologies that I use and study
+<div align="center">
+    ### Technologies that I use and study
+</div>
 <div align="center">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/stackoverflow-dark.svg" width="92">
 </div>
