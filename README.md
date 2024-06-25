@@ -1,7 +1,7 @@
 ## ☕️ Hi
 
 <div align="center">
-    ### Technologies that I use and study
+    <h2>Technologies that I use and study</h2>
 </div>
 <div align="center">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/stackoverflow-dark.svg" width="92">
