@@ -5,16 +5,17 @@
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/stackoverflow-dark.svg" width="92">
 </div>
 <div align="center">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/go-dark.svg" width="64">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/grpc.svg" width="64">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/postgressql-dark.svg" width="64">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/redis-dark.svg" width="64">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/mongodb-dark.svg" width="64">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/linux-dark.svg" width="64">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" width="64">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/yaml.svg" width="64">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/postman.svg" width="64">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/html.svg" width="64">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/go-dark.svg" width="64" />
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/rabbitmq-dark.svg" width="64" />
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/grpc.svg" width="64" />
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/postgressql-dark.svg" width="64" />
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/redis-dark.svg" width="64" />
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/mongodb-dark.svg" width="64" />
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/linux-dark.svg" width="64" />
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" width="64" />
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/yaml.svg" width="64" />
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/postman.svg" width="64" />
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/html.svg" width="64" />
 </div>
 
 ---
