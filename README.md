@@ -26,4 +26,5 @@
 
 ---------------
 
-File Sharer - [File-Sharer](https://github.com/File-Sharer/)
+My projects
+## [File-Sharer](https://github.com/File-Sharer/)
