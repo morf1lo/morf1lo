@@ -20,7 +20,7 @@
 
 ---
 
-## My projects
+# My projects
 ### [File Sharer](https://github.com/File-Sharer/)
 
 ---
