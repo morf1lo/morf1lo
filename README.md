@@ -20,7 +20,8 @@
 ---
 
 # My projects
-- ### [File Sharer](https://github.com/File-Sharer/)
+- ### [Blogging Application](https://github.com/BloggingApp) - Realworld application for blogging (under development)
+- ### [File Sharer](https://github.com/File-Sharer) - Application with which users can share their files with each other (finished (I guess...))
 
 ---
 
