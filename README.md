@@ -1,6 +1,6 @@
 ## ☕️ Hi
 
-![](https://komarev.com/ghpvc?username=morf1lo&color=000f89&style=for-the-badge)
+![](https://komarev.com/ghpvc?username=morf1lo&color=16198a&style=for-the-badge)
 
 <h2 align="center">Technologies and Tools that I use and study</h2>
 <div align="center">
