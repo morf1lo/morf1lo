@@ -1,5 +1,7 @@
 ## ☕️ Hi
 
+![](https://komarev.com/ghpvc?username=morf1lo&color=4a4ed9&style=for-the-badge)
+
 <h2 align="center">Technologies and Tools that I use and study</h2>
 <div align="center">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/stackoverflow-dark.svg" width="92">
