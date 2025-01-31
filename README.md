@@ -1,7 +1,5 @@
 ## ☕️ Hi
 
-![](https://komarev.com/ghpvc?username=morf1lo&color=16198a&style=for-the-badge)
-
 <h2 align="center">Technologies and Tools that I use and study</h2>
 <div align="center">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/stackoverflow-dark.svg" width="92">
@@ -26,6 +24,8 @@
 - ### [File Sharer](https://github.com/File-Sharer) - Application with which users can share their files with each other (finished (I guess...))
 
 ---
+
+![](https://komarev.com/ghpvc?username=morf1lo&color=16198a&style=for-the-badge)
 
 [![Morf1lo's GitHub stats](https://github-readme-stats.vercel.app/api?username=morf1lo&theme=radical&show_icons=true&hide_border=true&icon_color=f1f1f1)](https://github.com/anuraghazra/github-readme-stats)
 
