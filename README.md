@@ -1,6 +1,6 @@
-## ☕️ Hi
+<h2 align="center">☕️ Hi</h2>
 
-<h2 align="center">Technologies and Tools that I use and study</h2>
+<h3 align="center">Technologies and Tools that I use and study</h3>
 <div align="center">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/stackoverflow-dark.svg" width="92">
 </div>
