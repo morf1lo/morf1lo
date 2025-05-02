@@ -15,9 +15,7 @@
 
 ---
 
-# My projects
-- ### [Blogging Application](https://github.com/BloggingApp) - Realworld application for blogging (under development)
-- ### [File Sharer](https://github.com/File-Sharer) - Application with which users can share their files with each other (finished (I guess...))
+- ### [Blogging Application](https://github.com/BloggingApp) - Application for blogging (finished (I guess...))
 
 ---
 
