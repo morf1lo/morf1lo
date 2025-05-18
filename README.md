@@ -1,6 +1,6 @@
 <h2 align="center">☕️ Hi</h2>
 
-<h3 align="center">Technologies and Tools that I use and study</h3>
+<h3 align="center">My tools (not mine like I created them, but my xDDDDD)</h3>
 <div align="center">
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" width="64" />
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rabbitmq.png" width="64" />
