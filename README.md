@@ -15,7 +15,7 @@
 
 ---
 
-- ### [Blogging Application](https://github.com/BloggingApp) - Application for blogging (finished (I guess...))
+- ### [Blogging Application](https://github.com/BloggingApp) - Application for blogging (finished (I guess... (but seems like finished)))
 
 ---
 
