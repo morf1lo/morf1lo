@@ -15,7 +15,8 @@
 
 ---
 
-- ### [Blogging Application](https://github.com/BloggingApp) - Application for blogging (finished (I guess... (but seems like finished)))
+- ### [File Sharer](https://github.com/File-Sharer) - Allows users to share their files with each other (finished... (I guess...))
+- ### [Blogging Application](https://github.com/BloggingApp) - Application for blogging (working on it)
 
 ---
 
