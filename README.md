@@ -15,4 +15,4 @@ But currently I'm learning Django and all of it's stuff
 ### Hobbies:
 * Making Discord/Telegram bots and being up with all the Discord stuff
 * Boxing
-* Acoustic guitar
+* Classical guitar
