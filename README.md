@@ -4,7 +4,7 @@ I'm a Backend Developer
 
 I have experience building high-load microservices' APIs using Go, Redis, RabbitMQ, Postgres, WebSockets
 
-But currently I'm learning Django and all of it's stuff
+But currently I'm learning Spring Boot and all of it's stuff
 
 ### My projects
 
