@@ -12,7 +12,7 @@ But currently I'm learning Spring Boot and all of it's stuff
 - [Blogging Application](https://github.com/BloggingApp) - Application for blogging built with Go, RabbitMQ, PostgreSQL, Redis and also there is simple notification system implemented using RabbitMQ(for receiving data from other services) and WebSockets(so if user is on the website he could see notifications immediately)
 - [Kiroku](https://github.com/morf1lo/Kiroku) - A small, simple but very useful tool for me helping manage clipboard history
 
-### Hobbies:
+### Hobbies
 * Making Discord/Telegram bots and being up with all the Discord stuff
 * Boxing
 * Classical guitar
