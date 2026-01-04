@@ -1,6 +1,7 @@
 ### Hey there
 
 I'm a Backend Developer
+
 Currently I'm learning Spring Boot and all of it's stuff
 
 ### My projects
